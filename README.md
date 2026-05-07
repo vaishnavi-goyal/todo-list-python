@@ -5,8 +5,9 @@ A simple console-based To-Do List application built using Python.
 - Add Tasks
 - View Tasks
 - Delete Tasks
+- Exit
 
-#Screenshots
+#Ouputs
 ![Output 1](output%201.jpeg)
 ![Output 2](output%202.jpeg)
 ![Output 3](output%203.jpeg)
